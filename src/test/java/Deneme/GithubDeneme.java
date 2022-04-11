@@ -6,5 +6,6 @@ public class GithubDeneme {
         System.out.println("benden ");
         System.out.println("ucuncu gonderim");
         System.out.println("dorduncu");
+        System.out.println("aaaaa");
     }
 }
