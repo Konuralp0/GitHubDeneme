@@ -12,5 +12,7 @@ public class GithubDeneme {
             continue;
         }
         System.out.println("aaaaa");
+
+        System.out.println("hallo");
     }
 }
