@@ -7,6 +7,7 @@ public class GithubDeneme {
         System.out.println("ucuncu gonderim");
         System.out.println("dorduncu");
         System.out.println("aaaaa");
+        System.out.println("Fatma");
 
         for(int i = 0; i<100;i++){
             continue;
