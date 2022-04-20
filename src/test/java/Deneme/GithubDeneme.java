@@ -1,7 +1,7 @@
 package Deneme;
 
 public class GithubDeneme {
-    public static void cmain(String[] args) {
+    public static void cmain(String... args) {
         System.out.println("Ilk gonderim");
         System.out.println("benden ");
         System.out.println("ucuncu gonderim");
@@ -14,5 +14,9 @@ public class GithubDeneme {
         System.out.println("aaaaa");
 
         System.out.println("hallo");
+
+        System.out.println("gonderim ");
+
+
     }
 }
